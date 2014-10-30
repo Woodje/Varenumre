@@ -1,4 +1,4 @@
 Varenumre
 =========
 
-Opdating a comma-separated file from a .CSV-file
+Updating a comma-separated file from a .CSV-file
